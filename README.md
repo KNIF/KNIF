@@ -1,4 +1,30 @@
-### Hi there 👋
+### What's up! 👋
+
+Welcome to my profile, most of my work is private. But I have some exciting projects here aswell. Just scroll below.
+
+### Tooling
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> C#</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java</code>
+
+**Frameworks:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
+<code><img height="20" src="https://nextjs.org/static/favicon/apple-touch-icon.png"> Next.js</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"> React Native</code>
+<code><img height="20" src="http://www.topcode.io/wp-content/uploads/microsoft-wpf-square-200.png"> WPF</code>
+
+### Contact And Social
+**Where to find me or contact me:**  
+
+- Discord: `KNIF#4291`
+- Reddit: `u/kNif68`
+- Twitter: `@kNif68`
+- YouTube: `KNIF`
 
 <!--
 **KNIF/KNIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
