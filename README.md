@@ -1,6 +1,6 @@
 ### What's up! 👋
 
-Welcome to my profile. Most of my work is private but I have some exciting projects here aswell. Just scroll below 😉.
+Welcome to my profile. Most of my work is private but I have some exciting projects here aswell. Just scroll below. 😉
 
 ### Tooling
 **Languages:**  
@@ -12,6 +12,7 @@ Welcome to my profile. Most of my work is private but I have some exciting proje
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS</code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"> Java</code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1920px-VB.NET_Logo.svg.png"> VB.NET</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> C++</code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png"> C</code>
 
