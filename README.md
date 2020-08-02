@@ -20,9 +20,12 @@ Welcome to my profile. Most of my work is private but I have some exciting proje
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
 <code><img height="20" src="https://nextjs.org/static/favicon/apple-touch-icon.png"> Next.js</code>
+<code><img height="20" src="https://www.gatsbyjs.com/icons/icon-72x72.png"> Gatsby</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"> React Native</code>
 <code><img height="20" src="http://www.topcode.io/wp-content/uploads/microsoft-wpf-square-200.png"> WPF</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> Bootstrap</code>
+<code><img height="20" src="https://tailwindcss.com/apple-touch-icon.png"> Tailwind</code>
+<code><img height="20" src="https://materializecss.com/images/favicon/apple-touch-icon-152x152.png"> Materialize</code>
 
 ### Contact And Social
 **Where to find me or contact me:**  
