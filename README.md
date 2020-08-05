@@ -2,6 +2,8 @@
 
 Welcome to my profile. Most of my work is private but I have some exciting projects here aswell. Just scroll below. 😉
 
+---
+
 ### Tooling
 **Languages:**  
 
@@ -27,6 +29,8 @@ Welcome to my profile. Most of my work is private but I have some exciting proje
 <code><img height="20" src="https://tailwindcss.com/apple-touch-icon.png"> Tailwind</code>
 <code><img height="20" src="https://materializecss.com/images/favicon/apple-touch-icon-152x152.png"> Materialize</code>
 
+---
+
 ### Contact And Social
 **Where to find me or contact me:**  
 
@@ -35,17 +39,6 @@ Welcome to my profile. Most of my work is private but I have some exciting proje
 - Twitter: `@kNif68`
 - YouTube: `KNIF`
 
-<!--
-**KNIF/KNIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Maurice Huber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KNIF&show_icons=true&hide_border=true" />
