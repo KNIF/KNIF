@@ -49,11 +49,11 @@ Welcome to my profile. Most of my work is private but I have some exciting proje
 **Where to find me or contact me:**  
 
 - Discord: `KNIF#4291`
-- Reddit: `u/kNif68`
 - Twitter: `@kNif68`
+- Reddit: `u/kNif68`
 - YouTube: `KNIF`
 
 ---
 
 <img align="left" alt="Maurice Huber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KNIF&show_icons=true&hide_border=true" />
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNIF&layout=compact&hide_border=true" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNIF&layout=compact&hide_border=true" />
