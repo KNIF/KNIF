@@ -8,7 +8,7 @@ Welcome to my profile. Most of my work is private but I have some exciting proje
 
 ---
 
-### Contact
+### Contact me
 
 - Discord: `Maurice#6257`
 - Twitter: `@kNif68`
