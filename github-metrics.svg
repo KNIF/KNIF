@@ -1468,7 +1468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>statping/statping</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1591,7 +1591,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sun, 11 Jul 2021 21:07:22 (timezone Europe/Berlin) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sun, 11 Jul 2021 22:08:24 (timezone Europe/Berlin) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
