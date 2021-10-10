@@ -1650,7 +1650,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IBM/plex</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1734,7 +1734,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>romanz/trezor-agent</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1773,7 +1773,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/10/2021, 16:01 (timezone Europe/Berlin) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 10/10/2021, 17:02 (timezone Europe/Berlin) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
