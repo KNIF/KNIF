@@ -1,6 +1,6 @@
 ### What's up! 👋
 
-Welcome to my profile. Most of my work is private but I have some exciting projects here aswell. Just scroll below. 😉
+Welcome to my GitHub profile. Even though most of my work is private, I have some exciting projects here as well. Just scroll below! 😉
 
 ---
 
