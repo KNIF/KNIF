@@ -417,7 +417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dropbox/zxcvbn</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Low-Budget Password Strength Estimation</div>
@@ -573,7 +573,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2022, 04:09:50 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 24 Jan 2022, 05:08:16 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
