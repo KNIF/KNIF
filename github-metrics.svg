@@ -417,7 +417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sevensolutions/traefik-oidc-auth</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.</div>
@@ -470,7 +470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CorentinTh/it-tools</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of handy online tools for developers, with great UX.</div>
@@ -573,7 +573,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2025, 14:07:18 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2025, 15:11:12 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
