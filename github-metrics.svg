@@ -517,7 +517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AprilNEA/OpenLogi</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</div>
@@ -567,7 +567,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2026, 10:57:59 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2026, 11:47:43 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
